@@ -28,16 +28,10 @@ Every day, I add what I learned in my Data Analysis and AI Specialist program.
 - SQL (MySQL, SQLite)
 - Jupyter, Google Colab
 
-## Daily log
 
-| Day | Date | Topic | What I did |
-|---|---|---|---|
-| 1 | YYYY-MM-DD | Setup | Created this repo |
 
 ## Rules I follow
 - Small updates are okay. Showing up every day matters most.
 - I only share my own work.
 - I do not upload large data files. I link to the dataset instead.
 
-## Contact
-- LinkedIn: [add link]
